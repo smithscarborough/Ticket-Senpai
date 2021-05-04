@@ -1,6 +1,6 @@
 # Ticket Senpai - [http://ticket-senpai.herokuapp.com/](http://ticket-senpai.herokuapp.com/)
 
-## Click [here](https://www.youtube.com/watch?v=Qr-Ef7wNrNw) for Ticket Senpai video demo.
+## Click [here](https://www.youtube.com/watch?v=Qr-Ef7wNrNw) for video demo.
 
 ## Ticket Senpai is a web application that provides a centralized hub for purchasing tickets.  With a single search, users can browse and compare ticket prices across three of the top ticketing companies: Ticketmaster, StubHub, and SeatGeek.
 
