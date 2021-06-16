@@ -1,4 +1,4 @@
-# Ticket Senpai - [http://ticket-senpai.herokuapp.com/](http://ticket-senpai.herokuapp.com/)
+# Ticket Senpai - [www.ticketsenpai.com](http://ticket-senpai.herokuapp.com/)
 
 ## Video demo [here](https://www.youtube.com/watch?v=Qr-Ef7wNrNw).
 
